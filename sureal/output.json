@@ -1,0 +1,2391 @@
+{
+    "dis_videos": [
+        {
+            "dis_video_name": "BlueSpin_GPCC_TRISOUP_r02_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.317073170731707,
+                    "quality_score_std": 0.14158951486536578,
+                    "quality_score_ci95": [
+                        0.2775097855555223,
+                        0.2775097855555223
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.317073170731707,
+                    "quality_score_std": 0.14158951486536578,
+                    "quality_score_ci95": [
+                        0.2775097855555223,
+                        0.2775097855555223
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.2818337731305576,
+                    "quality_score_std": 0.11108067817520799,
+                    "quality_score_ci95": [
+                        0.21771368599628063,
+                        0.21771368599628063
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_GPCC_TRISOUP_r03_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.1707317073170733,
+                    "quality_score_std": 0.12047891741686312,
+                    "quality_score_ci95": [
+                        0.23613385898035502,
+                        0.23613385898035502
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.1707317073170733,
+                    "quality_score_std": 0.12047891741686312,
+                    "quality_score_ci95": [
+                        0.23613385898035502,
+                        0.23613385898035502
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.187973891123458,
+                    "quality_score_std": 0.10715812839874765,
+                    "quality_score_ci95": [
+                        0.21002564533640944,
+                        0.21002564533640944
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_GPCC_OCTREE_r03_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 1.4634146341463414,
+                    "quality_score_std": 0.1263828917856743,
+                    "quality_score_ci95": [
+                        0.2477054125842502,
+                        0.2477054125842502
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 1.4634146341463414,
+                    "quality_score_std": 0.1263828917856743,
+                    "quality_score_ci95": [
+                        0.2477054125842502,
+                        0.2477054125842502
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.450842571136068,
+                    "quality_score_std": 0.12501231411035196,
+                    "quality_score_ci95": [
+                        0.24501913516372542,
+                        0.24501913516372542
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_VPCC_r01_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 1.4390243902439024,
+                    "quality_score_std": 0.0927150137012108,
+                    "quality_score_ci95": [
+                        0.1817177182538251,
+                        0.1817177182538251
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 1.4390243902439024,
+                    "quality_score_std": 0.0927150137012108,
+                    "quality_score_ci95": [
+                        0.1817177182538251,
+                        0.1817177182538251
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.5257746013944025,
+                    "quality_score_std": 0.08998732039180837,
+                    "quality_score_ci95": [
+                        0.17637154847512873,
+                        0.17637154847512873
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_VPCC_r03_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.902439024390244,
+                    "quality_score_std": 0.13883170215373372,
+                    "quality_score_ci95": [
+                        0.2721045829532319,
+                        0.2721045829532319
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.902439024390244,
+                    "quality_score_std": 0.13883170215373372,
+                    "quality_score_ci95": [
+                        0.2721045829532319,
+                        0.2721045829532319
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.8607109478474184,
+                    "quality_score_std": 0.10624549001601341,
+                    "quality_score_ci95": [
+                        0.20823691061178565,
+                        0.20823691061178565
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_VPCC_raw_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 4.2926829268292686,
+                    "quality_score_std": 0.11177013890136195,
+                    "quality_score_ci95": [
+                        0.21906500144111335,
+                        0.21906500144111335
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 4.2926829268292686,
+                    "quality_score_std": 0.11177013890136195,
+                    "quality_score_ci95": [
+                        0.21906500144111335,
+                        0.21906500144111335
+                    ]
+                },
+                "P910": {
+                    "quality_score": 4.398293239999859,
+                    "quality_score_std": 0.11141676760238847,
+                    "quality_score_ci95": [
+                        0.2183724078299773,
+                        0.2183724078299773
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_VPCC_r03_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.731707317073171,
+                    "quality_score_std": 0.13077811335077572,
+                    "quality_score_ci95": [
+                        0.25631987104298637,
+                        0.25631987104298637
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.731707317073171,
+                    "quality_score_std": 0.13077811335077572,
+                    "quality_score_ci95": [
+                        0.25631987104298637,
+                        0.25631987104298637
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.7331205827526075,
+                    "quality_score_std": 0.10086739462117372,
+                    "quality_score_ci95": [
+                        0.19769605876171564,
+                        0.19769605876171564
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_GPCC_OCTREE_r04_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.097560975609756,
+                    "quality_score_std": 0.16676578452655297,
+                    "quality_score_ci95": [
+                        0.3268542670406627,
+                        0.3268542670406627
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.097560975609756,
+                    "quality_score_std": 0.16676578452655297,
+                    "quality_score_ci95": [
+                        0.3268542670406627,
+                        0.3268542670406627
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.0635876823716046,
+                    "quality_score_std": 0.1443771233100372,
+                    "quality_score_ci95": [
+                        0.28297338660274046,
+                        0.28297338660274046
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_VPCC_r05_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.341463414634146,
+                    "quality_score_std": 0.1189883991965899,
+                    "quality_score_ci95": [
+                        0.23321250288934833,
+                        0.23321250288934833
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.341463414634146,
+                    "quality_score_std": 0.1189883991965899,
+                    "quality_score_ci95": [
+                        0.23321250288934833,
+                        0.23321250288934833
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.3197427939044624,
+                    "quality_score_std": 0.08829705241271384,
+                    "quality_score_ci95": [
+                        0.1730586908468226,
+                        0.1730586908468226
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_GPCC_OCTREE_r04_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 1.975609756097561,
+                    "quality_score_std": 0.16924439277395675,
+                    "quality_score_ci95": [
+                        0.3317122400612443,
+                        0.3317122400612443
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 1.975609756097561,
+                    "quality_score_std": 0.16924439277395675,
+                    "quality_score_ci95": [
+                        0.3317122400612443,
+                        0.3317122400612443
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.8962501134746383,
+                    "quality_score_std": 0.14948363452253652,
+                    "quality_score_ci95": [
+                        0.29298194431879065,
+                        0.29298194431879065
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_VPCC_r05_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.658536585365854,
+                    "quality_score_std": 0.13347949553670369,
+                    "quality_score_ci95": [
+                        0.26161447207211774,
+                        0.26161447207211774
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.658536585365854,
+                    "quality_score_std": 0.13347949553670369,
+                    "quality_score_ci95": [
+                        0.26161447207211774,
+                        0.26161447207211774
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.7155476337819313,
+                    "quality_score_std": 0.11423605380023227,
+                    "quality_score_ci95": [
+                        0.22389809600630323,
+                        0.22389809600630323
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_VPCC_r01_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 1.7317073170731707,
+                    "quality_score_std": 0.09892341361304023,
+                    "quality_score_ci95": [
+                        0.19388593374501434,
+                        0.19388593374501434
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 1.7317073170731707,
+                    "quality_score_std": 0.09892341361304023,
+                    "quality_score_ci95": [
+                        0.19388593374501434,
+                        0.19388593374501434
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.8474083958973124,
+                    "quality_score_std": 0.09845683353031566,
+                    "quality_score_ci95": [
+                        0.19297145544607747,
+                        0.19297145544607747
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_GPCC_TRISOUP_r04_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.5121951219512195,
+                    "quality_score_std": 0.14866048739191,
+                    "quality_score_ci95": [
+                        0.29136860886864796,
+                        0.29136860886864796
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.5121951219512195,
+                    "quality_score_std": 0.14866048739191,
+                    "quality_score_ci95": [
+                        0.29136860886864796,
+                        0.29136860886864796
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.3708642892755813,
+                    "quality_score_std": 0.10743638165303585,
+                    "quality_score_ci95": [
+                        0.21057101058468414,
+                        0.21057101058468414
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_GPCC_TRISOUP_r03_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.024390243902439,
+                    "quality_score_std": 0.10756622961560951,
+                    "quality_score_ci95": [
+                        0.21082550739741,
+                        0.21082550739741
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.024390243902439,
+                    "quality_score_std": 0.10756622961560951,
+                    "quality_score_ci95": [
+                        0.21082550739741,
+                        0.21082550739741
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.08881611700013,
+                    "quality_score_std": 0.1037877909868837,
+                    "quality_score_ci95": [
+                        0.2034199188226526,
+                        0.2034199188226526
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_VPCC_r05_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.8048780487804876,
+                    "quality_score_std": 0.11163699991556886,
+                    "quality_score_ci95": [
+                        0.21880405435451833,
+                        0.21880405435451833
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.8048780487804876,
+                    "quality_score_std": 0.11163699991556886,
+                    "quality_score_ci95": [
+                        0.21880405435451833,
+                        0.21880405435451833
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.8271510827704605,
+                    "quality_score_std": 0.08788528111006662,
+                    "quality_score_ci95": [
+                        0.17225163556448617,
+                        0.17225163556448617
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_GPCC_OCTREE_r03_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 1.3902439024390243,
+                    "quality_score_std": 0.13009400344482522,
+                    "quality_score_ci95": [
+                        0.25497904299171964,
+                        0.25497904299171964
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 1.3902439024390243,
+                    "quality_score_std": 0.13009400344482522,
+                    "quality_score_ci95": [
+                        0.25497904299171964,
+                        0.25497904299171964
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.3296174504604128,
+                    "quality_score_std": 0.11744683908535145,
+                    "quality_score_ci95": [
+                        0.23019110673372542,
+                        0.23019110673372542
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_GPCC_TRISOUP_r03_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.4390243902439024,
+                    "quality_score_std": 0.13089178404876817,
+                    "quality_score_ci95": [
+                        0.25654266106422363,
+                        0.25654266106422363
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.4390243902439024,
+                    "quality_score_std": 0.13089178404876817,
+                    "quality_score_ci95": [
+                        0.25654266106422363,
+                        0.25654266106422363
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.4788779525142517,
+                    "quality_score_std": 0.11155692288996807,
+                    "quality_score_ci95": [
+                        0.2186471065874218,
+                        0.2186471065874218
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_GPCC_TRISOUP_r04_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.6341463414634148,
+                    "quality_score_std": 0.1295211516814805,
+                    "quality_score_ci95": [
+                        0.25385627644963454,
+                        0.25385627644963454
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.6341463414634148,
+                    "quality_score_std": 0.1295211516814805,
+                    "quality_score_ci95": [
+                        0.25385627644963454,
+                        0.25385627644963454
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.6375772826811836,
+                    "quality_score_std": 0.09957837604618493,
+                    "quality_score_ci95": [
+                        0.1951696339154806,
+                        0.1951696339154806
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_GPCC_TRISOUP_r01_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 1.3658536585365855,
+                    "quality_score_std": 0.07615851217559023,
+                    "quality_score_ci95": [
+                        0.14926763752366984,
+                        0.14926763752366984
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 1.3658536585365855,
+                    "quality_score_std": 0.07615851217559023,
+                    "quality_score_ci95": [
+                        0.14926763752366984,
+                        0.14926763752366984
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.4371981413874853,
+                    "quality_score_std": 0.08270349102259072,
+                    "quality_score_ci95": [
+                        0.1620955342646369,
+                        0.1620955342646369
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_GPCC_TRISOUP_r04_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.6097560975609757,
+                    "quality_score_std": 0.15569689432687445,
+                    "quality_score_ci95": [
+                        0.3051596850049008,
+                        0.3051596850049008
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.6097560975609757,
+                    "quality_score_std": 0.15569689432687445,
+                    "quality_score_ci95": [
+                        0.3051596850049008,
+                        0.3051596850049008
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.5945397167974806,
+                    "quality_score_std": 0.12683814081119438,
+                    "quality_score_ci95": [
+                        0.24859768246430852,
+                        0.24859768246430852
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_GPCC_TRISOUP_r03_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.4634146341463414,
+                    "quality_score_std": 0.11633404895328606,
+                    "quality_score_ci95": [
+                        0.22801008258648253,
+                        0.22801008258648253
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.4634146341463414,
+                    "quality_score_std": 0.11633404895328606,
+                    "quality_score_ci95": [
+                        0.22801008258648253,
+                        0.22801008258648253
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.4534503709546107,
+                    "quality_score_std": 0.09756576052457251,
+                    "quality_score_ci95": [
+                        0.19122498799774112,
+                        0.19122498799774112
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_GPCC_TRISOUP_r01_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 1.3902439024390243,
+                    "quality_score_std": 0.10405233662293435,
+                    "quality_score_ci95": [
+                        0.2039384176874864,
+                        0.2039384176874864
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 1.3902439024390243,
+                    "quality_score_std": 0.10405233662293435,
+                    "quality_score_ci95": [
+                        0.2039384176874864,
+                        0.2039384176874864
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.4772708029049226,
+                    "quality_score_std": 0.09951951503525727,
+                    "quality_score_ci95": [
+                        0.19505426868850284,
+                        0.19505426868850284
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_GPCC_OCTREE_r04_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 1.975609756097561,
+                    "quality_score_std": 0.17280965447725224,
+                    "quality_score_ci95": [
+                        0.3387000103892353,
+                        0.3387000103892353
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 1.975609756097561,
+                    "quality_score_std": 0.17280965447725224,
+                    "quality_score_ci95": [
+                        0.3387000103892353,
+                        0.3387000103892353
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.8058145128855099,
+                    "quality_score_std": 0.14113844512419763,
+                    "quality_score_ci95": [
+                        0.2766257069056224,
+                        0.2766257069056224
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_VPCC_r03_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.658536585365854,
+                    "quality_score_std": 0.11898839919658995,
+                    "quality_score_ci95": [
+                        0.23321250288934842,
+                        0.23321250288934842
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.658536585365854,
+                    "quality_score_std": 0.11898839919658995,
+                    "quality_score_ci95": [
+                        0.23321250288934842,
+                        0.23321250288934842
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.627237225706733,
+                    "quality_score_std": 0.08150725695637329,
+                    "quality_score_ci95": [
+                        0.15975096334421338,
+                        0.15975096334421338
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_VPCC_r02_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.097560975609756,
+                    "quality_score_std": 0.10362266237194148,
+                    "quality_score_ci95": [
+                        0.20309627334251043,
+                        0.20309627334251043
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.097560975609756,
+                    "quality_score_std": 0.10362266237194148,
+                    "quality_score_ci95": [
+                        0.20309627334251043,
+                        0.20309627334251043
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.1929171325738004,
+                    "quality_score_std": 0.08490101352469405,
+                    "quality_score_ci95": [
+                        0.16640259046785935,
+                        0.16640259046785935
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_VPCC_r05_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.6097560975609757,
+                    "quality_score_std": 0.1391527007375211,
+                    "quality_score_ci95": [
+                        0.27273372733751183,
+                        0.27273372733751183
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.6097560975609757,
+                    "quality_score_std": 0.1391527007375211,
+                    "quality_score_ci95": [
+                        0.27273372733751183,
+                        0.27273372733751183
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.5422313833053916,
+                    "quality_score_std": 0.11137418556355161,
+                    "quality_score_ci95": [
+                        0.2182889487371386,
+                        0.2182889487371386
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_VPCC_r04_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.268292682926829,
+                    "quality_score_std": 0.13077811335077572,
+                    "quality_score_ci95": [
+                        0.25631987104298637,
+                        0.25631987104298637
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.268292682926829,
+                    "quality_score_std": 0.13077811335077572,
+                    "quality_score_ci95": [
+                        0.25631987104298637,
+                        0.25631987104298637
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.2851674248258806,
+                    "quality_score_std": 0.10955297045439362,
+                    "quality_score_ci95": [
+                        0.2147194399717933,
+                        0.2147194399717933
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_GPCC_OCTREE_r05_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.0,
+                    "quality_score_std": 0.18145751367274018,
+                    "quality_score_ci95": [
+                        0.3556494684980238,
+                        0.3556494684980238
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.0,
+                    "quality_score_std": 0.18145751367274018,
+                    "quality_score_ci95": [
+                        0.3556494684980238,
+                        0.3556494684980238
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.9276167641497355,
+                    "quality_score_std": 0.16120894488157086,
+                    "quality_score_ci95": [
+                        0.31596308361008363,
+                        0.31596308361008363
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_GPCC_TRISOUP_r02_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.4390243902439024,
+                    "quality_score_std": 0.13547018611706163,
+                    "quality_score_ci95": [
+                        0.2655161459819961,
+                        0.2655161459819961
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.4390243902439024,
+                    "quality_score_std": 0.13547018611706163,
+                    "quality_score_ci95": [
+                        0.2655161459819961,
+                        0.2655161459819961
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.493713172462918,
+                    "quality_score_std": 0.12071785842972522,
+                    "quality_score_ci95": [
+                        0.23660217380792425,
+                        0.23660217380792425
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_GPCC_TRISOUP_r01_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 1.2926829268292683,
+                    "quality_score_std": 0.08726118936584545,
+                    "quality_score_ci95": [
+                        0.17102844070948245,
+                        0.17102844070948245
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 1.2926829268292683,
+                    "quality_score_std": 0.08726118936584545,
+                    "quality_score_ci95": [
+                        0.17102844070948245,
+                        0.17102844070948245
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.380029812841808,
+                    "quality_score_std": 0.08617321268500204,
+                    "quality_score_ci95": [
+                        0.1688960499340966,
+                        0.1688960499340966
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_GPCC_OCTREE_r04_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.097560975609756,
+                    "quality_score_std": 0.1554100714348682,
+                    "quality_score_ci95": [
+                        0.3045975236094843,
+                        0.3045975236094843
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.097560975609756,
+                    "quality_score_std": 0.1554100714348682,
+                    "quality_score_ci95": [
+                        0.3045975236094843,
+                        0.3045975236094843
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.9889920115097022,
+                    "quality_score_std": 0.1370603512959335,
+                    "quality_score_ci95": [
+                        0.2686328061259778,
+                        0.2686328061259778
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_VPCC_raw_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 4.097560975609756,
+                    "quality_score_std": 0.1343678880081885,
+                    "quality_score_ci95": [
+                        0.2633556857805291,
+                        0.2633556857805291
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 4.097560975609756,
+                    "quality_score_std": 0.1343678880081885,
+                    "quality_score_ci95": [
+                        0.2633556857805291,
+                        0.2633556857805291
+                    ]
+                },
+                "P910": {
+                    "quality_score": 4.156893354882633,
+                    "quality_score_std": 0.11390338381140334,
+                    "quality_score_ci95": [
+                        0.22324607613499808,
+                        0.22324607613499808
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_VPCC_raw_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 4.170731707317073,
+                    "quality_score_std": 0.10989151537628108,
+                    "quality_score_ci95": [
+                        0.21538297447689586,
+                        0.21538297447689586
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 4.170731707317073,
+                    "quality_score_std": 0.10989151537628108,
+                    "quality_score_ci95": [
+                        0.21538297447689586,
+                        0.21538297447689586
+                    ]
+                },
+                "P910": {
+                    "quality_score": 4.162844689126317,
+                    "quality_score_std": 0.08310736267621445,
+                    "quality_score_ci95": [
+                        0.16288710655087327,
+                        0.16288710655087327
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_VPCC_r03_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.7804878048780486,
+                    "quality_score_std": 0.16569217389540283,
+                    "quality_score_ci95": [
+                        0.32475003314803375,
+                        0.32475003314803375
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.7804878048780486,
+                    "quality_score_std": 0.16569217389540283,
+                    "quality_score_ci95": [
+                        0.32475003314803375,
+                        0.32475003314803375
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.747100258847893,
+                    "quality_score_std": 0.12952217082287948,
+                    "quality_score_ci95": [
+                        0.25385827392601085,
+                        0.25385827392601085
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_VPCC_r01_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 1.6585365853658536,
+                    "quality_score_std": 0.10825532205449828,
+                    "quality_score_ci95": [
+                        0.21217610101393444,
+                        0.21217610101393444
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 1.6585365853658536,
+                    "quality_score_std": 0.10825532205449828,
+                    "quality_score_ci95": [
+                        0.21217610101393444,
+                        0.21217610101393444
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.653375837669954,
+                    "quality_score_std": 0.09630498750498379,
+                    "quality_score_ci95": [
+                        0.18875392331026802,
+                        0.18875392331026802
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_VPCC_r02_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.3902439024390243,
+                    "quality_score_std": 0.13009400344482522,
+                    "quality_score_ci95": [
+                        0.25497904299171964,
+                        0.25497904299171964
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.3902439024390243,
+                    "quality_score_std": 0.13009400344482522,
+                    "quality_score_ci95": [
+                        0.25497904299171964,
+                        0.25497904299171964
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.393430949799052,
+                    "quality_score_std": 0.09660295041553839,
+                    "quality_score_ci95": [
+                        0.18933791869643862,
+                        0.18933791869643862
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_GPCC_OCTREE_r05_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.682926829268293,
+                    "quality_score_std": 0.15396794245938178,
+                    "quality_score_ci95": [
+                        0.3017710085026899,
+                        0.3017710085026899
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.682926829268293,
+                    "quality_score_std": 0.15396794245938178,
+                    "quality_score_ci95": [
+                        0.3017710085026899,
+                        0.3017710085026899
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.662915993955564,
+                    "quality_score_std": 0.11766046378837082,
+                    "quality_score_ci95": [
+                        0.23060980260665526,
+                        0.23060980260665526
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_VPCC_r01_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 1.853658536585366,
+                    "quality_score_std": 0.1237669703060027,
+                    "quality_score_ci95": [
+                        0.24257831112095304,
+                        0.24257831112095304
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 1.853658536585366,
+                    "quality_score_std": 0.1237669703060027,
+                    "quality_score_ci95": [
+                        0.24257831112095304,
+                        0.24257831112095304
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.9280857207759163,
+                    "quality_score_std": 0.11828487057512105,
+                    "quality_score_ci95": [
+                        0.23183361493241425,
+                        0.23183361493241425
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_VPCC_r04_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.4146341463414633,
+                    "quality_score_std": 0.13514044075312265,
+                    "quality_score_ci95": [
+                        0.26486985825849024,
+                        0.26486985825849024
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.4146341463414633,
+                    "quality_score_std": 0.13514044075312265,
+                    "quality_score_ci95": [
+                        0.26486985825849024,
+                        0.26486985825849024
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.3856435207058118,
+                    "quality_score_std": 0.11100278120576759,
+                    "quality_score_ci95": [
+                        0.21756101105205625,
+                        0.21756101105205625
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_GPCC_OCTREE_r03_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 1.4390243902439024,
+                    "quality_score_std": 0.13989883316780474,
+                    "quality_score_ci95": [
+                        0.27419611705557057,
+                        0.27419611705557057
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 1.4390243902439024,
+                    "quality_score_std": 0.13989883316780474,
+                    "quality_score_ci95": [
+                        0.27419611705557057,
+                        0.27419611705557057
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.3703488687907956,
+                    "quality_score_std": 0.13713362019747866,
+                    "quality_score_ci95": [
+                        0.26877641024225024,
+                        0.26877641024225024
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_GPCC_OCTREE_r05_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.317073170731707,
+                    "quality_score_std": 0.14158951486536578,
+                    "quality_score_ci95": [
+                        0.2775097855555223,
+                        0.2775097855555223
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.317073170731707,
+                    "quality_score_std": 0.14158951486536578,
+                    "quality_score_ci95": [
+                        0.2775097855555223,
+                        0.2775097855555223
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.2810903380089957,
+                    "quality_score_std": 0.11562233340848398,
+                    "quality_score_ci95": [
+                        0.22661514858729226,
+                        0.22661514858729226
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_GPCC_TRISOUP_r01_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 1.3658536585365855,
+                    "quality_score_std": 0.08378323920642765,
+                    "quality_score_ci95": [
+                        0.16421179751502993,
+                        0.16421179751502993
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 1.3658536585365855,
+                    "quality_score_std": 0.08378323920642765,
+                    "quality_score_ci95": [
+                        0.16421179751502993,
+                        0.16421179751502993
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.4192366104564964,
+                    "quality_score_std": 0.0652258388451248,
+                    "quality_score_ci95": [
+                        0.1278400351028908,
+                        0.1278400351028908
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_GPCC_OCTREE_r05_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.5121951219512195,
+                    "quality_score_std": 0.11646181840305679,
+                    "quality_score_ci95": [
+                        0.2282605055972552,
+                        0.2282605055972552
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.5121951219512195,
+                    "quality_score_std": 0.11646181840305679,
+                    "quality_score_ci95": [
+                        0.2282605055972552,
+                        0.2282605055972552
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.5300383123702996,
+                    "quality_score_std": 0.08761181494618042,
+                    "quality_score_ci95": [
+                        0.17171565282191578,
+                        0.17171565282191578
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_VPCC_r02_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.073170731707317,
+                    "quality_score_std": 0.11785814076438605,
+                    "quality_score_ci95": [
+                        0.23099724157256607,
+                        0.23099724157256607
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.073170731707317,
+                    "quality_score_std": 0.11785814076438605,
+                    "quality_score_ci95": [
+                        0.23099724157256607,
+                        0.23099724157256607
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.091574613000317,
+                    "quality_score_std": 0.10145764899312501,
+                    "quality_score_ci95": [
+                        0.19885293372056528,
+                        0.19885293372056528
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_GPCC_TRISOUP_r04_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.902439024390244,
+                    "quality_score_std": 0.1343678880081885,
+                    "quality_score_ci95": [
+                        0.2633556857805291,
+                        0.2633556857805291
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.902439024390244,
+                    "quality_score_std": 0.1343678880081885,
+                    "quality_score_ci95": [
+                        0.2633556857805291,
+                        0.2633556857805291
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.862724390967305,
+                    "quality_score_std": 0.0994606191902613,
+                    "quality_score_ci95": [
+                        0.19493883518814453,
+                        0.19493883518814453
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_GPCC_TRISOUP_r02_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.268292682926829,
+                    "quality_score_std": 0.13077811335077572,
+                    "quality_score_ci95": [
+                        0.25631987104298637,
+                        0.25631987104298637
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.268292682926829,
+                    "quality_score_std": 0.13077811335077572,
+                    "quality_score_ci95": [
+                        0.25631987104298637,
+                        0.25631987104298637
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.236639503158298,
+                    "quality_score_std": 0.09561293906188686,
+                    "quality_score_ci95": [
+                        0.18739753604373577,
+                        0.18739753604373577
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_GPCC_OCTREE_r03_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 1.5365853658536586,
+                    "quality_score_std": 0.1565542101061582,
+                    "quality_score_ci95": [
+                        0.3068399896396658,
+                        0.3068399896396658
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 1.5365853658536586,
+                    "quality_score_std": 0.1565542101061582,
+                    "quality_score_ci95": [
+                        0.3068399896396658,
+                        0.3068399896396658
+                    ]
+                },
+                "P910": {
+                    "quality_score": 1.4176279091929431,
+                    "quality_score_std": 0.13737350540434362,
+                    "quality_score_ci95": [
+                        0.2692465756522973,
+                        0.2692465756522973
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_VPCC_raw_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 4.024390243902439,
+                    "quality_score_std": 0.10173977372982541,
+                    "quality_score_ci95": [
+                        0.1994058869195086,
+                        0.1994058869195086
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 4.024390243902439,
+                    "quality_score_std": 0.10173977372982541,
+                    "quality_score_ci95": [
+                        0.1994058869195086,
+                        0.1994058869195086
+                    ]
+                },
+                "P910": {
+                    "quality_score": 4.069849481122106,
+                    "quality_score_std": 0.09073151873066365,
+                    "quality_score_ci95": [
+                        0.17783014745135153,
+                        0.17783014745135153
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_GPCC_TRISOUP_r02_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.5609756097560976,
+                    "quality_score_std": 0.13989883316780477,
+                    "quality_score_ci95": [
+                        0.2741961170555706,
+                        0.2741961170555706
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.5609756097560976,
+                    "quality_score_std": 0.13989883316780477,
+                    "quality_score_ci95": [
+                        0.2741961170555706,
+                        0.2741961170555706
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.532619586041721,
+                    "quality_score_std": 0.11051909947850712,
+                    "quality_score_ci95": [
+                        0.2166130142138948,
+                        0.2166130142138948
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_VPCC_r04_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.3902439024390243,
+                    "quality_score_std": 0.1097560975609756,
+                    "quality_score_ci95": [
+                        0.21511756097560972,
+                        0.21511756097560972
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.3902439024390243,
+                    "quality_score_std": 0.1097560975609756,
+                    "quality_score_ci95": [
+                        0.21511756097560972,
+                        0.21511756097560972
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.4376470955396097,
+                    "quality_score_std": 0.10043492969525024,
+                    "quality_score_ci95": [
+                        0.19684844480550265,
+                        0.19684844480550265
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_VPCC_r02_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 2.5853658536585367,
+                    "quality_score_std": 0.11569308512811144,
+                    "quality_score_ci95": [
+                        0.2267538191276933,
+                        0.2267538191276933
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 2.5853658536585367,
+                    "quality_score_std": 0.11569308512811144,
+                    "quality_score_ci95": [
+                        0.2267538191276933,
+                        0.2267538191276933
+                    ]
+                },
+                "P910": {
+                    "quality_score": 2.6353900762333793,
+                    "quality_score_std": 0.08631556577930213,
+                    "quality_score_ci95": [
+                        0.169175056304801,
+                        0.169175056304801
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_VPCC_r04_d200",
+            "models": {
+                "MOS": {
+                    "quality_score": 3.3658536585365852,
+                    "quality_score_std": 0.12472456268824973,
+                    "quality_score_ci95": [
+                        0.24445515388646194,
+                        0.24445515388646194
+                    ]
+                },
+                "BT500": {
+                    "quality_score": 3.3658536585365852,
+                    "quality_score_std": 0.12472456268824973,
+                    "quality_score_ci95": [
+                        0.24445515388646194,
+                        0.24445515388646194
+                    ]
+                },
+                "P910": {
+                    "quality_score": 3.390119869190809,
+                    "quality_score_std": 0.08741094215677983,
+                    "quality_score_ci95": [
+                        0.1713219501896022,
+                        0.1713219501896022
+                    ]
+                }
+            }
+        }
+    ],
+    "stats": {
+        "models": {
+            "MOS": {
+                "aic": 2.4814467247718026,
+                "bic": 2.757779202102814
+            },
+            "BT500": {
+                "aic": 2.4814467247718026,
+                "bic": 2.757779202102814
+            },
+            "P910": {
+                "aic": 2.1215116084559,
+                "bic": 2.477555377324703
+            }
+        }
+    },
+    "observers": [
+        {
+            "observer": "1",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.5112570356472795,
+                    "observer_bias_std": 0.06316509686756834,
+                    "observer_bias_ci95": [
+                        0.12380106325655924,
+                        0.12380106325655924
+                    ],
+                    "observer_inconsistency": 0.4554899911513348,
+                    "observer_inconsistency_std": 0.04466446828544583,
+                    "observer_inconsistency_ci95": [
+                        0.0731732555199342,
+                        0.10807591709071451
+                    ],
+                    "observer_scores_mean": 2.1923076923076925,
+                    "observer_scores_std": 0.981334678628698
+                }
+            }
+        },
+        {
+            "observer": "10",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.4151031894934334,
+                    "observer_bias_std": 0.07572684099237101,
+                    "observer_bias_ci95": [
+                        0.14842157927140748,
+                        0.14842157927140748
+                    ],
+                    "observer_inconsistency": 0.5460740162538041,
+                    "observer_inconsistency_std": 0.05354696282324684,
+                    "observer_inconsistency_ci95": [
+                        0.08772533820805826,
+                        0.12956914806593697
+                    ],
+                    "observer_scores_mean": 2.2884615384615383,
+                    "observer_scores_std": 1.1821840684079756
+                }
+            }
+        },
+        {
+            "observer": "11",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.12335834896810512,
+                    "observer_bias_std": 0.0830325307843358,
+                    "observer_bias_ci95": [
+                        0.16274043903606678,
+                        0.16274043903606678
+                    ],
+                    "observer_inconsistency": 0.5987560945489298,
+                    "observer_inconsistency_std": 0.058712865638933534,
+                    "observer_inconsistency_ci95": [
+                        0.09618857395702915,
+                        0.14206923376836644
+                    ],
+                    "observer_scores_mean": 2.826923076923077,
+                    "observer_scores_std": 1.1556076298133549
+                }
+            }
+        },
+        {
+            "observer": "12",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.3156660412757975,
+                    "observer_bias_std": 0.07916436600177787,
+                    "observer_bias_ci95": [
+                        0.15515899078884454,
+                        0.15515899078884454
+                    ],
+                    "observer_inconsistency": 0.5708623616180165,
+                    "observer_inconsistency_std": 0.055977660013669744,
+                    "observer_inconsistency_ci95": [
+                        0.09170751995626104,
+                        0.13545077710377135
+                    ],
+                    "observer_scores_mean": 3.019230769230769,
+                    "observer_scores_std": 1.0650096535384912
+                }
+            }
+        },
+        {
+            "observer": "13",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.4535647279549719,
+                    "observer_bias_std": 0.07451691218234958,
+                    "observer_bias_ci95": [
+                        0.14605016720091787,
+                        0.14605016720091787
+                    ],
+                    "observer_inconsistency": 0.5373490955254174,
+                    "observer_inconsistency_std": 0.05269141389598568,
+                    "observer_inconsistency_ci95": [
+                        0.086323702900473,
+                        0.1274989515136907
+                    ],
+                    "observer_scores_mean": 2.25,
+                    "observer_scores_std": 0.9582636541000763
+                }
+            }
+        },
+        {
+            "observer": "14",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.08489681050656661,
+                    "observer_bias_std": 0.09108783846789505,
+                    "observer_bias_ci95": [
+                        0.17852851988353557,
+                        0.17852851988353557
+                    ],
+                    "observer_inconsistency": 0.6568437443343539,
+                    "observer_inconsistency_std": 0.06440882823413617,
+                    "observer_inconsistency_ci95": [
+                        0.10552020038762856,
+                        0.15585192086174357
+                    ],
+                    "observer_scores_mean": 2.7884615384615383,
+                    "observer_scores_std": 1.0253805759052523
+                }
+            }
+        },
+        {
+            "observer": "15",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.5464352720450282,
+                    "observer_bias_std": 0.12699906004870226,
+                    "observer_bias_ci95": [
+                        0.24891307773305446,
+                        0.24891307773305446
+                    ],
+                    "observer_inconsistency": 0.9158032458826528,
+                    "observer_inconsistency_std": 0.08980189652881297,
+                    "observer_inconsistency_ci95": [
+                        0.1471213555045865,
+                        0.21729626906452995
+                    ],
+                    "observer_scores_mean": 3.25,
+                    "observer_scores_std": 1.4659599112999173
+                }
+            }
+        },
+        {
+            "observer": "16",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.06894934333958723,
+                    "observer_bias_std": 0.10906066309764995,
+                    "observer_bias_ci95": [
+                        0.21375453724486998,
+                        0.21375453724486998
+                    ],
+                    "observer_inconsistency": 0.7864476258693608,
+                    "observer_inconsistency_std": 0.07711753443205407,
+                    "observer_inconsistency_ci95": [
+                        0.12634071922266368,
+                        0.18660354796118162
+                    ],
+                    "observer_scores_mean": 2.6346153846153846,
+                    "observer_scores_std": 1.2714142058511995
+                }
+            }
+        },
+        {
+            "observer": "17",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.08818011257035643,
+                    "observer_bias_std": 0.07477735343562933,
+                    "observer_bias_ci95": [
+                        0.14656062163969605,
+                        0.14656062163969605
+                    ],
+                    "observer_inconsistency": 0.5392271641113097,
+                    "observer_inconsistency_std": 0.05287557372719594,
+                    "observer_inconsistency_ci95": [
+                        0.08662540962331906,
+                        0.12794456829720446
+                    ],
+                    "observer_scores_mean": 2.6153846153846154,
+                    "observer_scores_std": 1.1120640226769969
+                }
+            }
+        },
+        {
+            "observer": "18",
+            "models": {
+                "P910": {
+                    "observer_bias": 1.1041275797373356,
+                    "observer_bias_std": 0.12156544308625955,
+                    "observer_bias_ci95": [
+                        0.23826340583134525,
+                        0.23826340583134525
+                    ],
+                    "observer_inconsistency": 0.8766208767440165,
+                    "observer_inconsistency_std": 0.08595974922155315,
+                    "observer_inconsistency_ci95": [
+                        0.14082681212370848,
+                        0.20799931290586415
+                    ],
+                    "observer_scores_mean": 3.8076923076923075,
+                    "observer_scores_std": 1.3014557165914336
+                }
+            }
+        },
+        {
+            "observer": "19",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.5079737335834896,
+                    "observer_bias_std": 0.11224855943767645,
+                    "observer_bias_ci95": [
+                        0.2200026865554683,
+                        0.2200026865554683
+                    ],
+                    "observer_inconsistency": 0.8094358732990194,
+                    "observer_inconsistency_std": 0.07937171754129833,
+                    "observer_inconsistency_ci95": [
+                        0.13003372002576366,
+                        0.1920580606212483
+                    ],
+                    "observer_scores_mean": 3.2115384615384617,
+                    "observer_scores_std": 1.3634873058213983
+                }
+            }
+        },
+        {
+            "observer": "2",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.43105065666041276,
+                    "observer_bias_std": 0.06671596965595208,
+                    "observer_bias_ci95": [
+                        0.13076063188687984,
+                        0.13076063188687984
+                    ],
+                    "observer_inconsistency": 0.4810956989736697,
+                    "observer_inconsistency_std": 0.04717531462437808,
+                    "observer_inconsistency_ci95": [
+                        0.0772867443729307,
+                        0.1141514849613953
+                    ],
+                    "observer_scores_mean": 3.1346153846153846,
+                    "observer_scores_std": 1.109900310039083
+                }
+            }
+        },
+        {
+            "observer": "20",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.0689493433395872,
+                    "observer_bias_std": 0.07914410498361518,
+                    "observer_bias_ci95": [
+                        0.1551192800036864,
+                        0.1551192800036864
+                    ],
+                    "observer_inconsistency": 0.5707162573382589,
+                    "observer_inconsistency_std": 0.05596333333817841,
+                    "observer_inconsistency_ci95": [
+                        0.09168404869234098,
+                        0.13541611036172996
+                    ],
+                    "observer_scores_mean": 2.6346153846153846,
+                    "observer_scores_std": 1.2714142058511995
+                }
+            }
+        },
+        {
+            "observer": "21",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.08489681050656665,
+                    "observer_bias_std": 0.11808062000023088,
+                    "observer_bias_ci95": [
+                        0.23143329197565252,
+                        0.23143329197565252
+                    ],
+                    "observer_inconsistency": 0.851491460098822,
+                    "observer_inconsistency_std": 0.08349560714414116,
+                    "observer_inconsistency_ci95": [
+                        0.13678983818143195,
+                        0.20203675653219028
+                    ],
+                    "observer_scores_mean": 2.7884615384615383,
+                    "observer_scores_std": 1.132331469231964
+                }
+            }
+        },
+        {
+            "observer": "22",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.1651031894934334,
+                    "observer_bias_std": 0.14655143920399835,
+                    "observer_bias_ci95": [
+                        0.2872349587822686,
+                        0.2872349587822686
+                    ],
+                    "observer_inconsistency": 1.0567974570861194,
+                    "observer_inconsistency_std": 0.103627516374757,
+                    "observer_inconsistency_ci95": [
+                        0.16977170050370424,
+                        0.25075052486887706
+                    ],
+                    "observer_scores_mean": 2.5384615384615383,
+                    "observer_scores_std": 1.0824036368823298
+                }
+            }
+        },
+        {
+            "observer": "23",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.049718574108817984,
+                    "observer_bias_std": 0.10902763368995896,
+                    "observer_bias_ci95": [
+                        0.21368980092697196,
+                        0.21368980092697196
+                    ],
+                    "observer_inconsistency": 0.7862094474233043,
+                    "observer_inconsistency_std": 0.07709417904417674,
+                    "observer_inconsistency_ci95": [
+                        0.12630245648883592,
+                        0.18654703441645207
+                    ],
+                    "observer_scores_mean": 2.6538461538461537,
+                    "observer_scores_std": 0.8293791789556858
+                }
+            }
+        },
+        {
+            "observer": "24",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.8156660412757973,
+                    "observer_bias_std": 0.1503224168731513,
+                    "observer_bias_ci95": [
+                        0.29462592417470157,
+                        0.29462592417470157
+                    ],
+                    "observer_inconsistency": 1.0839903637756396,
+                    "observer_inconsistency_std": 0.10629400027958034,
+                    "observer_inconsistency_ci95": [
+                        0.17414016863292137,
+                        0.25720269371105847
+                    ],
+                    "observer_scores_mean": 3.519230769230769,
+                    "observer_scores_std": 1.3227358683859727
+                }
+            }
+        },
+        {
+            "observer": "25",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.08818011257035643,
+                    "observer_bias_std": 0.10105725625466688,
+                    "observer_bias_ci95": [
+                        0.1980681799688969,
+                        0.1980681799688969
+                    ],
+                    "observer_inconsistency": 0.728734238367811,
+                    "observer_inconsistency_std": 0.07145827119369848,
+                    "observer_inconsistency_ci95": [
+                        0.11706921703246785,
+                        0.1729096635645662
+                    ],
+                    "observer_scores_mean": 2.6153846153846154,
+                    "observer_scores_std": 1.1627858813716132
+                }
+            }
+        },
+        {
+            "observer": "26",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.04971857410881796,
+                    "observer_bias_std": 0.08184631093567529,
+                    "observer_bias_ci95": [
+                        0.16041549558148613,
+                        0.16041549558148613
+                    ],
+                    "observer_inconsistency": 0.5902021415722924,
+                    "observer_inconsistency_std": 0.05787408153044332,
+                    "observer_inconsistency_ci95": [
+                        0.09481440416400504,
+                        0.14003960341279237
+                    ],
+                    "observer_scores_mean": 2.6538461538461537,
+                    "observer_scores_std": 1.0356086167566356
+                }
+            }
+        },
+        {
+            "observer": "27",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.20356472795497182,
+                    "observer_bias_std": 0.08129340704106246,
+                    "observer_bias_ci95": [
+                        0.15933182606420077,
+                        0.15933182606420077
+                    ],
+                    "observer_inconsistency": 0.5862150948874317,
+                    "observer_inconsistency_std": 0.05748311937395332,
+                    "observer_inconsistency_ci95": [
+                        0.09417389571923376,
+                        0.13909358102959876
+                    ],
+                    "observer_scores_mean": 2.5,
+                    "observer_scores_std": 1.118033988749895
+                }
+            }
+        },
+        {
+            "observer": "28",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.20028142589118203,
+                    "observer_bias_std": 0.07347063383642588,
+                    "observer_bias_ci95": [
+                        0.14399950349404125,
+                        0.14399950349404125
+                    ],
+                    "observer_inconsistency": 0.5298042750761462,
+                    "observer_inconsistency_std": 0.05195158345099928,
+                    "observer_inconsistency_ci95": [
+                        0.0851116475637771,
+                        0.1257087620360281
+                    ],
+                    "observer_scores_mean": 2.9038461538461537,
+                    "observer_scores_std": 0.965951411913412
+                }
+            }
+        },
+        {
+            "observer": "29",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.37664165103189495,
+                    "observer_bias_std": 0.061680218901242846,
+                    "observer_bias_ci95": [
+                        0.12089076183767992,
+                        0.12089076183767992
+                    ],
+                    "observer_inconsistency": 0.4447823838605484,
+                    "observer_inconsistency_std": 0.043614501083196984,
+                    "observer_inconsistency_ci95": [
+                        0.07145310688985046,
+                        0.10553528063265791
+                    ],
+                    "observer_scores_mean": 2.326923076923077,
+                    "observer_scores_std": 1.013773488699785
+                }
+            }
+        },
+        {
+            "observer": "3",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.7804878048780488,
+                    "observer_bias_std": 0.08059419260491893,
+                    "observer_bias_ci95": [
+                        0.1579613937379369,
+                        0.1579613937379369
+                    ],
+                    "observer_inconsistency": 0.5811729878833115,
+                    "observer_inconsistency_std": 0.056988700123765015,
+                    "observer_inconsistency_ci95": [
+                        0.09336389464053002,
+                        0.1378972202991195
+                    ],
+                    "observer_scores_mean": 1.9230769230769231,
+                    "observer_scores_std": 0.8049403667867828
+                }
+            }
+        },
+        {
+            "observer": "30",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.3541275797373359,
+                    "observer_bias_std": 0.0836049576482855,
+                    "observer_bias_ci95": [
+                        0.16386237279233365,
+                        0.16386237279233365
+                    ],
+                    "observer_inconsistency": 0.6028839233677771,
+                    "observer_inconsistency_std": 0.05911763253910728,
+                    "observer_inconsistency_ci95": [
+                        0.09685169867715875,
+                        0.14304866008696185
+                    ],
+                    "observer_scores_mean": 3.0576923076923075,
+                    "observer_scores_std": 1.2155002379277293
+                }
+            }
+        },
+        {
+            "observer": "31",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.876641651031895,
+                    "observer_bias_std": 0.07239528607405046,
+                    "observer_bias_ci95": [
+                        0.14189186489369593,
+                        0.14189186489369593
+                    ],
+                    "observer_inconsistency": 0.5220498320837459,
+                    "observer_inconsistency_std": 0.051191197667330816,
+                    "observer_inconsistency_ci95": [
+                        0.08386591692310282,
+                        0.12386883458600233
+                    ],
+                    "observer_scores_mean": 1.8269230769230769,
+                    "observer_scores_std": 0.8927303375719354
+                }
+            }
+        },
+        {
+            "observer": "32",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.33489681050656667,
+                    "observer_bias_std": 0.07844889409423726,
+                    "observer_bias_ci95": [
+                        0.15375669446894125,
+                        0.15375669446894125
+                    ],
+                    "observer_inconsistency": 0.5657030203204328,
+                    "observer_inconsistency_std": 0.055471744937519954,
+                    "observer_inconsistency_ci95": [
+                        0.09087868550014408,
+                        0.13422659972742348
+                    ],
+                    "observer_scores_mean": 3.0384615384615383,
+                    "observer_scores_std": 0.9190617804114245
+                }
+            }
+        },
+        {
+            "observer": "33",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.049718574108817984,
+                    "observer_bias_std": 0.09271389835516773,
+                    "observer_bias_ci95": [
+                        0.18171553222019454,
+                        0.18171553222019454
+                    ],
+                    "observer_inconsistency": 0.6685694289354278,
+                    "observer_inconsistency_std": 0.06555862625636694,
+                    "observer_inconsistency_ci95": [
+                        0.1074039004296246,
+                        0.1586341205618386
+                    ],
+                    "observer_scores_mean": 2.6538461538461537,
+                    "observer_scores_std": 1.1416016984350639
+                }
+            }
+        },
+        {
+            "observer": "34",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.4727954971857411,
+                    "observer_bias_std": 0.0819197914679172,
+                    "observer_bias_ci95": [
+                        0.160559514485459,
+                        0.160559514485459
+                    ],
+                    "observer_inconsistency": 0.5907320172257857,
+                    "observer_inconsistency_std": 0.0579260400762982,
+                    "observer_inconsistency_ci95": [
+                        0.09489952727832167,
+                        0.14016532911106858
+                    ],
+                    "observer_scores_mean": 2.230769230769231,
+                    "observer_scores_std": 1.0117651106127619
+                }
+            }
+        },
+        {
+            "observer": "35",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.2387429643527205,
+                    "observer_bias_std": 0.16002268450911433,
+                    "observer_bias_ci95": [
+                        0.3136380607304837,
+                        0.3136380607304837
+                    ],
+                    "observer_inconsistency": 1.1539399884700174,
+                    "observer_inconsistency_std": 0.11315312539509546,
+                    "observer_inconsistency_ci95": [
+                        0.1853773897809589,
+                        0.27379991864653336
+                    ],
+                    "observer_scores_mean": 2.9423076923076925,
+                    "observer_scores_std": 1.524334174174486
+                }
+            }
+        },
+        {
+            "observer": "36",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.5304878048780488,
+                    "observer_bias_std": 0.09607441865519921,
+                    "observer_bias_ci95": [
+                        0.18830201758744425,
+                        0.18830201758744425
+                    ],
+                    "observer_inconsistency": 0.6928024854434298,
+                    "observer_inconsistency_std": 0.06793487291079171,
+                    "observer_inconsistency_ci95": [
+                        0.11129687650009086,
+                        0.16438399400997605
+                    ],
+                    "observer_scores_mean": 2.173076923076923,
+                    "observer_scores_std": 0.8927303375719351
+                }
+            }
+        },
+        {
+            "observer": "37",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.48874296435272047,
+                    "observer_bias_std": 0.10597669026215192,
+                    "observer_bias_ci95": [
+                        0.20771007384620727,
+                        0.20771007384620727
+                    ],
+                    "observer_inconsistency": 0.7642087814883085,
+                    "observer_inconsistency_std": 0.07493683630638556,
+                    "observer_inconsistency_ci95": [
+                        0.12276810802598398,
+                        0.18132684913527622
+                    ],
+                    "observer_scores_mean": 3.1923076923076925,
+                    "observer_scores_std": 1.092605593180138
+                }
+            }
+        },
+        {
+            "observer": "38",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.4920262664165103,
+                    "observer_bias_std": 0.07687853898784713,
+                    "observer_bias_ci95": [
+                        0.15067886127462085,
+                        0.15067886127462085
+                    ],
+                    "observer_inconsistency": 0.5543790286068807,
+                    "observer_inconsistency_std": 0.05436133624387344,
+                    "observer_inconsistency_ci95": [
+                        0.0890595163520649,
+                        0.13153971129223244
+                    ],
+                    "observer_scores_mean": 2.2115384615384617,
+                    "observer_scores_std": 0.9674816329311744
+                }
+            }
+        },
+        {
+            "observer": "39",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.35741088180112573,
+                    "observer_bias_std": 0.07147266089913681,
+                    "observer_bias_ci95": [
+                        0.14008355645587217,
+                        0.14008355645587217
+                    ],
+                    "observer_inconsistency": 0.5153966873313761,
+                    "observer_inconsistency_std": 0.050538803144678165,
+                    "observer_inconsistency_ci95": [
+                        0.08279710691534457,
+                        0.12229021653814551
+                    ],
+                    "observer_scores_mean": 2.3461538461538463,
+                    "observer_scores_std": 0.9977785977748347
+                }
+            }
+        },
+        {
+            "observer": "4",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.35741088180112573,
+                    "observer_bias_std": 0.06273408150705724,
+                    "observer_bias_ci95": [
+                        0.1229562903905719,
+                        0.1229562903905719
+                    ],
+                    "observer_inconsistency": 0.4523818951856644,
+                    "observer_inconsistency_std": 0.04435969441065167,
+                    "observer_inconsistency_ci95": [
+                        0.07267394817027849,
+                        0.1073384468313863
+                    ],
+                    "observer_scores_mean": 2.3461538461538463,
+                    "observer_scores_std": 0.9584565995674705
+                }
+            }
+        },
+        {
+            "observer": "40",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.08489681050656665,
+                    "observer_bias_std": 0.08023387314486348,
+                    "observer_bias_ci95": [
+                        0.15725518200900662,
+                        0.15725518200900662
+                    ],
+                    "observer_inconsistency": 0.5785746873057569,
+                    "observer_inconsistency_std": 0.056733915779967135,
+                    "observer_inconsistency_ci95": [
+                        0.09294648456396958,
+                        0.13728071121384466
+                    ],
+                    "observer_scores_mean": 2.7884615384615383,
+                    "observer_scores_std": 1.2910421917305424
+                }
+            }
+        },
+        {
+            "observer": "41",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.2579737335834897,
+                    "observer_bias_std": 0.11015068528467466,
+                    "observer_bias_ci95": [
+                        0.21589093713055094,
+                        0.21589093713055094
+                    ],
+                    "observer_inconsistency": 0.7943078876427823,
+                    "observer_inconsistency_std": 0.0778882965814841,
+                    "observer_inconsistency_ci95": [
+                        0.12760344936904147,
+                        0.18846858345315443
+                    ],
+                    "observer_scores_mean": 2.9615384615384617,
+                    "observer_scores_std": 1.3581879679238134
+                }
+            }
+        },
+        {
+            "observer": "5",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.48874296435272047,
+                    "observer_bias_std": 0.10494856820130308,
+                    "observer_bias_ci95": [
+                        0.20569499573182598,
+                        0.20569499573182598
+                    ],
+                    "observer_inconsistency": 0.7567948878726557,
+                    "observer_inconsistency_std": 0.07420984423269897,
+                    "observer_inconsistency_ci95": [
+                        0.12157708573685638,
+                        0.17956772518680192
+                    ],
+                    "observer_scores_mean": 3.1923076923076925,
+                    "observer_scores_std": 1.1100668992047549
+                }
+            }
+        },
+        {
+            "observer": "6",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.5464352720450282,
+                    "observer_bias_std": 0.13176439513517585,
+                    "observer_bias_ci95": [
+                        0.2582529438891393,
+                        0.2582529438891393
+                    ],
+                    "observer_inconsistency": 0.9501665658807484,
+                    "observer_inconsistency_std": 0.09317149724173161,
+                    "observer_inconsistency_ci95": [
+                        0.15264173145923288,
+                        0.22544979031685966
+                    ],
+                    "observer_scores_mean": 3.25,
+                    "observer_scores_std": 0.9781261520022707
+                }
+            }
+        },
+        {
+            "observer": "7",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.2035647279549719,
+                    "observer_bias_std": 0.0869199768244975,
+                    "observer_bias_ci95": [
+                        0.1703596777769421,
+                        0.1703596777769421
+                    ],
+                    "observer_inconsistency": 0.6267888666057346,
+                    "observer_inconsistency_std": 0.06146170502911904,
+                    "observer_inconsistency_ci95": [
+                        0.10069196422354136,
+                        0.14872068079791828
+                    ],
+                    "observer_scores_mean": 2.5,
+                    "observer_scores_std": 1.2325707968432358
+                }
+            }
+        },
+        {
+            "observer": "8",
+            "models": {
+                "P910": {
+                    "observer_bias": 0.2387429643527204,
+                    "observer_bias_std": 0.1374089518989491,
+                    "observer_bias_ci95": [
+                        0.2693160493638643,
+                        0.2693160493638643
+                    ],
+                    "observer_inconsistency": 0.9908700435588522,
+                    "observer_inconsistency_std": 0.09716280169613721,
+                    "observer_inconsistency_ci95": [
+                        0.1591806368809774,
+                        0.2351076659327937
+                    ],
+                    "observer_scores_mean": 2.9423076923076925,
+                    "observer_scores_std": 1.4860047305347304
+                }
+            }
+        },
+        {
+            "observer": "9",
+            "models": {
+                "P910": {
+                    "observer_bias": -0.5881801125703565,
+                    "observer_bias_std": 0.06444391067315336,
+                    "observer_bias_ci95": [
+                        0.12630748716295365,
+                        0.12630748716295365
+                    ],
+                    "observer_inconsistency": 0.4647116486469511,
+                    "observer_inconsistency_std": 0.045568726248828774,
+                    "observer_inconsistency_ci95": [
+                        0.074654690267904,
+                        0.11026397634623404
+                    ],
+                    "observer_scores_mean": 2.1153846153846154,
+                    "observer_scores_std": 0.9334354691931996
+                }
+            }
+        }
+    ]
+}

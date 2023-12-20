@@ -1,0 +1,688 @@
+{
+    "dis_videos": [
+        {
+            "dis_video_name": "BlueSpin_GPCC_TRISOUP_r02_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.317073170731707,
+                    "quality_score_std": 0.14158951486536578,
+                    "quality_score_ci95": [
+                        0.2775097855555223,
+                        0.2775097855555223
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_GPCC_TRISOUP_r03_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.1707317073170733,
+                    "quality_score_std": 0.12047891741686312,
+                    "quality_score_ci95": [
+                        0.23613385898035502,
+                        0.23613385898035502
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_GPCC_OCTREE_r03_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 1.4634146341463414,
+                    "quality_score_std": 0.1263828917856743,
+                    "quality_score_ci95": [
+                        0.2477054125842502,
+                        0.2477054125842502
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_VPCC_r01_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 1.4390243902439024,
+                    "quality_score_std": 0.0927150137012108,
+                    "quality_score_ci95": [
+                        0.1817177182538251,
+                        0.1817177182538251
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_VPCC_r03_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.902439024390244,
+                    "quality_score_std": 0.13883170215373372,
+                    "quality_score_ci95": [
+                        0.2721045829532319,
+                        0.2721045829532319
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_VPCC_raw_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 4.2926829268292686,
+                    "quality_score_std": 0.11177013890136195,
+                    "quality_score_ci95": [
+                        0.21906500144111335,
+                        0.21906500144111335
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_VPCC_r03_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.731707317073171,
+                    "quality_score_std": 0.13077811335077572,
+                    "quality_score_ci95": [
+                        0.25631987104298637,
+                        0.25631987104298637
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_GPCC_OCTREE_r04_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.097560975609756,
+                    "quality_score_std": 0.16676578452655297,
+                    "quality_score_ci95": [
+                        0.3268542670406627,
+                        0.3268542670406627
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_VPCC_r05_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.341463414634146,
+                    "quality_score_std": 0.11898839919658995,
+                    "quality_score_ci95": [
+                        0.23321250288934842,
+                        0.23321250288934842
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_GPCC_OCTREE_r04_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 1.975609756097561,
+                    "quality_score_std": 0.16924439277395675,
+                    "quality_score_ci95": [
+                        0.3317122400612443,
+                        0.3317122400612443
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_VPCC_r05_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.658536585365854,
+                    "quality_score_std": 0.13347949553670369,
+                    "quality_score_ci95": [
+                        0.26161447207211774,
+                        0.26161447207211774
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_VPCC_r01_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 1.7317073170731707,
+                    "quality_score_std": 0.09892341361304023,
+                    "quality_score_ci95": [
+                        0.19388593374501434,
+                        0.19388593374501434
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_GPCC_TRISOUP_r04_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.5121951219512195,
+                    "quality_score_std": 0.14866048739191,
+                    "quality_score_ci95": [
+                        0.29136860886864796,
+                        0.29136860886864796
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_GPCC_TRISOUP_r03_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.024390243902439,
+                    "quality_score_std": 0.10756622961560951,
+                    "quality_score_ci95": [
+                        0.21082550739741,
+                        0.21082550739741
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_VPCC_r05_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.8048780487804876,
+                    "quality_score_std": 0.11163699991556886,
+                    "quality_score_ci95": [
+                        0.21880405435451833,
+                        0.21880405435451833
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_GPCC_OCTREE_r03_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 1.3902439024390243,
+                    "quality_score_std": 0.13009400344482522,
+                    "quality_score_ci95": [
+                        0.25497904299171964,
+                        0.25497904299171964
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_GPCC_TRISOUP_r03_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.4390243902439024,
+                    "quality_score_std": 0.13089178404876817,
+                    "quality_score_ci95": [
+                        0.25654266106422363,
+                        0.25654266106422363
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_GPCC_TRISOUP_r04_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.6341463414634148,
+                    "quality_score_std": 0.12952115168148054,
+                    "quality_score_ci95": [
+                        0.2538562764496346,
+                        0.2538562764496346
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_GPCC_TRISOUP_r01_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 1.3658536585365855,
+                    "quality_score_std": 0.07615851217559022,
+                    "quality_score_ci95": [
+                        0.1492676375236698,
+                        0.1492676375236698
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_GPCC_TRISOUP_r04_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.6097560975609757,
+                    "quality_score_std": 0.15569689432687445,
+                    "quality_score_ci95": [
+                        0.3051596850049008,
+                        0.3051596850049008
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_GPCC_TRISOUP_r03_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.4634146341463414,
+                    "quality_score_std": 0.11633404895328606,
+                    "quality_score_ci95": [
+                        0.22801008258648253,
+                        0.22801008258648253
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_GPCC_TRISOUP_r01_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 1.3902439024390243,
+                    "quality_score_std": 0.10405233662293435,
+                    "quality_score_ci95": [
+                        0.2039384176874864,
+                        0.2039384176874864
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_GPCC_OCTREE_r04_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 1.975609756097561,
+                    "quality_score_std": 0.1728096544772522,
+                    "quality_score_ci95": [
+                        0.3387000103892352,
+                        0.3387000103892352
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_VPCC_r03_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.658536585365854,
+                    "quality_score_std": 0.1189883991965899,
+                    "quality_score_ci95": [
+                        0.23321250288934833,
+                        0.23321250288934833
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_VPCC_r02_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.097560975609756,
+                    "quality_score_std": 0.10362266237194148,
+                    "quality_score_ci95": [
+                        0.20309627334251043,
+                        0.20309627334251043
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_VPCC_r05_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.6097560975609757,
+                    "quality_score_std": 0.1391527007375211,
+                    "quality_score_ci95": [
+                        0.27273372733751183,
+                        0.27273372733751183
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_VPCC_r04_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.268292682926829,
+                    "quality_score_std": 0.13077811335077572,
+                    "quality_score_ci95": [
+                        0.25631987104298637,
+                        0.25631987104298637
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_GPCC_OCTREE_r05_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.0,
+                    "quality_score_std": 0.18145751367274018,
+                    "quality_score_ci95": [
+                        0.3556494684980238,
+                        0.3556494684980238
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_GPCC_TRISOUP_r02_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.4390243902439024,
+                    "quality_score_std": 0.13547018611706163,
+                    "quality_score_ci95": [
+                        0.2655161459819961,
+                        0.2655161459819961
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_GPCC_TRISOUP_r01_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 1.2926829268292683,
+                    "quality_score_std": 0.08726118936584545,
+                    "quality_score_ci95": [
+                        0.17102844070948245,
+                        0.17102844070948245
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_GPCC_OCTREE_r04_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.097560975609756,
+                    "quality_score_std": 0.15541007143486818,
+                    "quality_score_ci95": [
+                        0.3045975236094842,
+                        0.3045975236094842
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_VPCC_raw_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 4.097560975609756,
+                    "quality_score_std": 0.1343678880081885,
+                    "quality_score_ci95": [
+                        0.2633556857805291,
+                        0.2633556857805291
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_VPCC_raw_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 4.175,
+                    "quality_score_std": 0.1125889961376424,
+                    "quality_score_ci95": [
+                        0.22066992886993358,
+                        0.22066992886993358
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_VPCC_r03_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.7804878048780486,
+                    "quality_score_std": 0.16569217389540283,
+                    "quality_score_ci95": [
+                        0.32475003314803375,
+                        0.32475003314803375
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_VPCC_r01_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 1.6585365853658536,
+                    "quality_score_std": 0.10825532205449828,
+                    "quality_score_ci95": [
+                        0.21217610101393444,
+                        0.21217610101393444
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_VPCC_r02_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.3902439024390243,
+                    "quality_score_std": 0.13009400344482522,
+                    "quality_score_ci95": [
+                        0.25497904299171964,
+                        0.25497904299171964
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_GPCC_OCTREE_r05_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.682926829268293,
+                    "quality_score_std": 0.15396794245938175,
+                    "quality_score_ci95": [
+                        0.30177100850268984,
+                        0.30177100850268984
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_VPCC_r01_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 1.853658536585366,
+                    "quality_score_std": 0.1237669703060027,
+                    "quality_score_ci95": [
+                        0.24257831112095304,
+                        0.24257831112095304
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_VPCC_r04_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.4146341463414633,
+                    "quality_score_std": 0.13514044075312265,
+                    "quality_score_ci95": [
+                        0.26486985825849024,
+                        0.26486985825849024
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_GPCC_OCTREE_r03_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 1.4390243902439024,
+                    "quality_score_std": 0.13989883316780474,
+                    "quality_score_ci95": [
+                        0.27419611705557057,
+                        0.27419611705557057
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_GPCC_OCTREE_r05_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.317073170731707,
+                    "quality_score_std": 0.14158951486536578,
+                    "quality_score_ci95": [
+                        0.2775097855555223,
+                        0.2775097855555223
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_GPCC_TRISOUP_r01_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 1.3658536585365855,
+                    "quality_score_std": 0.08378323920642765,
+                    "quality_score_ci95": [
+                        0.16421179751502993,
+                        0.16421179751502993
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_GPCC_OCTREE_r05_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.5121951219512195,
+                    "quality_score_std": 0.1164618184030568,
+                    "quality_score_ci95": [
+                        0.22826050559725522,
+                        0.22826050559725522
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_VPCC_r02_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.073170731707317,
+                    "quality_score_std": 0.11785814076438605,
+                    "quality_score_ci95": [
+                        0.23099724157256607,
+                        0.23099724157256607
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_GPCC_TRISOUP_r04_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.902439024390244,
+                    "quality_score_std": 0.1343678880081885,
+                    "quality_score_ci95": [
+                        0.2633556857805291,
+                        0.2633556857805291
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_GPCC_TRISOUP_r02_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.268292682926829,
+                    "quality_score_std": 0.13077811335077572,
+                    "quality_score_ci95": [
+                        0.25631987104298637,
+                        0.25631987104298637
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "BlueSpin_GPCC_OCTREE_r03_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 1.5365853658536586,
+                    "quality_score_std": 0.1565542101061582,
+                    "quality_score_ci95": [
+                        0.3068399896396658,
+                        0.3068399896396658
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_VPCC_raw_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 4.024390243902439,
+                    "quality_score_std": 0.10173977372982541,
+                    "quality_score_ci95": [
+                        0.1994058869195086,
+                        0.1994058869195086
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "CasualSquat_VPCC_r02_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.6,
+                    "quality_score_std": 0.11766968108291043,
+                    "quality_score_ci95": [
+                        0.23062786813526112,
+                        0.23062786813526112
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "ReadyForWinter_VPCC_r04_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.4,
+                    "quality_score_std": 0.11208970766356101,
+                    "quality_score_ci95": [
+                        0.21969134343227303,
+                        0.21969134343227303
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_VPCC_r04_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 3.375,
+                    "quality_score_std": 0.12753833008560855,
+                    "quality_score_ci95": [
+                        0.24997002543458932,
+                        0.24997002543458932
+                    ]
+                }
+            }
+        },
+        {
+            "dis_video_name": "FlowerDance_GPCC_TRISOUP_r02_d200",
+            "models": {
+                "BT500": {
+                    "quality_score": 2.575,
+                    "quality_score_std": 0.1427185683209783,
+                    "quality_score_ci95": [
+                        0.2797226851663846,
+                        0.2797226851663846
+                    ]
+                }
+            }
+        }
+    ],
+    "stats": {
+        "models": {
+            "BT500": {
+                "aic": 2.483476387385892,
+                "bic": 2.760343643042133
+            }
+        }
+    }
+}
