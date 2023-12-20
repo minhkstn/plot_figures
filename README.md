@@ -1,3 +1,8 @@
 # Plot figures and analyze data for ComPEQ-MR
 
-Get what you want in the file `plot_figures.ipynb`
+## Dependency
+Netflix Sureal: https://github.com/Netflix/sureal
+
+## How to use?
+
+Get what you want by running the file `plot_figures.ipynb`
