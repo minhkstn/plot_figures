@@ -6,9 +6,9 @@
             "path": "BlueSpin_VPCC_raw_d200"
         },
         {
-            "content_id": 1,
-            "content_name": "CasualSquat",
-            "path": "CasualSquat_VPCC_raw_d200"
+            "content_id": 3,
+            "content_name": "ReadyForWinter",
+            "path": "ReadyForWinter_VPCC_raw_d200"
         },
         {
             "content_id": 2,
@@ -16,9 +16,9 @@
             "path": "FlowerDance_VPCC_raw_d200"
         },
         {
-            "content_id": 3,
-            "content_name": "ReadyForWinter",
-            "path": "ReadyForWinter_VPCC_raw_d200"
+            "content_id": 1,
+            "content_name": "CasualSquat",
+            "path": "CasualSquat_VPCC_raw_d200"
         }
     ],
     "dis_videos": [
